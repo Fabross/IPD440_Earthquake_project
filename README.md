@@ -1,2 +1,6 @@
-# IPD440_Earthquake_project
-Project repository for IPD440: Machine Learning
+# IPD440 Seismic Hazard project
+Organization:
+* local: personal and large files.
+* notebooks: Jupyter notebooks.
+* others: all files not regarding to the previous folders
+* python: project's python files.
